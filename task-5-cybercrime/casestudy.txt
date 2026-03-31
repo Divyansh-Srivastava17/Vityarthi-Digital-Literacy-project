@@ -1,9 +1,0 @@
-Case Study (Phishing)
-
-Phishing is a cybercrime where attackers trick users into revealing sensitive information such as passwords, bank details, or OTPs. This is usually done through fake emails or websites that appear to be legitimate.
-
-A typical phishing attack begins when a user receives a message claiming to be from a trusted organization, such as a bank. The message urges the user to click a link to verify their account. The link leads to a fake website designed to look real. Once the user enters their details, the attacker gains access to their information.
-
-In India, phishing attacks often target users through fake UPI links and SMS alerts. Students and professionals are common targets due to frequent online activity.
-
-The consequences include financial loss, identity theft, and unauthorized access to accounts. Awareness and caution are essential to prevent such attacks.
